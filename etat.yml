@@ -1,6 +1,7 @@
-lieu: table-ronde
+lieu: pont-levis
 inventaire:
   - cheval
+  - grimoire
 personnages:
   - moi:
     - santé: 10
@@ -12,3 +13,6 @@ personnages:
     - santé: 20
   - géant:
     - santé: 25
+adversaire:
+
+témoignage:
