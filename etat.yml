@@ -1,10 +1,9 @@
-lieu: pont-levis
+lieu: route
 inventaire:
-  - cheval
   - grimoire
 personnages:
   - moi:
-    - santé: 10
+    - santé: 9
   - chevalier_noir:
     - santé: 15
   - lion:
@@ -14,5 +13,5 @@ personnages:
   - géant:
     - santé: 25
 adversaire:
-
+ - chevalier_noir
 témoignage:
